@@ -2,7 +2,7 @@ Gerador de senha aleatória.
 
 A ideia é pedir ao usuário digitar o tamanho desejado de senha e a partir daí o programa coloca no mínimo os seguintes caracteres:
 - um caracter especial
-- uma letra maíuscula
+- uma letra maiúscula
 - uma letra minúscula
 - um número
 
